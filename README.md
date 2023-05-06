@@ -1,2 +1,2 @@
 # html-portfolio
-myportfolio descripsion
+myportfolio descrip
